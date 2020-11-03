@@ -1,0 +1,24 @@
+##################
+##   PTC    ##
+##################
+
+
+
+https://medium.com/@jihwangk/fine-grained-propaganda-detection-and-classification-with-bert-dfad4acaa321
+
+
+Link Vast.ai to Jupyterlab
+--------------------------
+
+* peer-to-peer
+There are seperate prices and charges for 
+
+1.) base active rental costs
+2.) storage costs
+3.) bandwidth costs. 
+
+You are charged the base active rental cost for every second your instance is in the active/connected state. You are charged the storage cost (which depends on the size of your storage allocation) for every single second your instance exists, regardless of what state it is in: whether it is active or inactive, online or offline, functional or broken. Stopping an instance does not avoid storage costs. You are charged bandwidth prices for every byte sent or received to or from the instance, regardless of what state it is in. The prices for base rental, storage, and bandwidth vary considerably from machine to machine, so make sure to check them.
+
+Your JupyterNotebook or JupyterLab should automatically open on your browser at "https://jupyter.vast.ai/..."
+
+-- add credits
