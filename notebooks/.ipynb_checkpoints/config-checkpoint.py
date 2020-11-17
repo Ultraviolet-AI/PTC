@@ -18,16 +18,16 @@ from transformers import (BertConfig, BertTokenizer, BertForSequenceClassificati
 from sklearn.metrics import f1_score
 
 
-train_articles = "/Users/jacob/Desktop/DataScy/NLP/uvai_ptc/datasets/train-articles" 
-test_articles = "/Users/jacob/Desktop/DataScy/NLP/uvai_ptc/datasets/test-articles"
-dev_articles = "/Users/jacob/Desktop/DataScy/NLP/uvai_ptc/datasets/dev-articles"
-train_SI_labels = "/Users/jacob/Desktop/DataScy/NLP/uvai_ptc/datasets/train-labels-task-si"
-train_TC_labels = "/Users/jacob/Desktop/DataScy/NLP/uvai_ptc/datasets/train-labels-task-flc-tc"
-dev_SI_labels = "/Users/jacob/Desktop/DataScy/NLP/uvai_ptc/datasets/dev-labels-task-si"
-dev_TC_labels = "/Users/jacob/Desktop/DataScy/NLP/uvai_ptc/datasets/dev-labels-task-si/dev-labels-task-flc-tc"
+train_articles = "/workspace/PTC/datasets/train-articles" 
+test_articles = "/workspace/PTC/datasets/test-articles"
+dev_articles = "/workspace/PTC/datasets/dev-articles"
+train_SI_labels = "/workspace/PTC/datasets/train-labels-task-si"
+train_TC_labels = "/workspace/PTC/datasets/train-labels-task-flc-tc"
+dev_SI_labels = "/workspace/PTC/datasets/dev-labels-task-si"
+dev_TC_labels = "/workspace/PTC/datasets/dev-labels-task-si/dev-labels-task-flc-tc"
 # dev_TC_labels_file = "PTC/datasets/dev-task-TC.labels" # Multiple files
-dev_TC_template = "/Users/jacob/Desktop/DataScy/NLP/uvai_ptc/datasets/test-task-tc-template.out" # only .out file
-techniques = "/Users/jacob/Desktop/DataScy/NLP/uvai_ptc/propaganda-techniques-scorer/data/propaganda-techniques-names-semeval2020task11.txt"
+dev_TC_template = "/workspace/PTC/datasets/test-task-tc-template.out" # only .out file
+techniques = "/workspace/PTC/tools/data/propaganda-techniques-names-semeval2020task11.txt"
 PROP_TECH_TO_LABEL = {}
 LABEL_TO_PROP_TECH = {}
 label = 0
@@ -36,16 +36,16 @@ with open(techniques, "r") as f:
         PROP_TECH_TO_LABEL[technique.replace("\n", "")] = int(label)
         LABEL_TO_PROP_TECH[int(label)] = technique.replace("\n", "")
         label += 1
-# device = torch.device("cuda")
-device = torch.device("cpu")
-# n_gpu = torch.cuda.device_count()
+device = torch.device("cuda")
+# device = torch.device("cpu")
+n_gpu = torch.cuda.device_count()
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("LOG")
 MODEL_CLASSES = {"bert": (BertConfig, BertForSequenceClassification, BertTokenizer)}
-args = {"data_dir": "/Users/jacob/Desktop/DataScy/NLP/uvai_ptc/datasets/",
+args = {"data_dir": "/workspace/PTC/datasets/",
         "model_type": "bert",
         "model_name": "bert-base-uncased",
-        "output_dir": '/Users/jacob/Desktop/DataScy/NLP/uvai_ptc/output/SI_output',
+        "output_dir": '/workspace/PTC/datasets/output/SI_output',
         "max_seq_length": 128,
         "train_batch_size": 8,
         "eval_batch_size": 8,
