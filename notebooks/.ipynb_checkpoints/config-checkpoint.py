@@ -14,7 +14,7 @@ import torch
 from torch.utils.data import (DataLoader, RandomSampler, SequentialSampler, TensorDataset)
 from torch.utils.data.distributed import DistributedSampler
 # from tensorboardX import SummaryWriter
-from transformers import (BertConfig, BertTokenizer, BertForSequenceClassification, WEIGHTS_NAME, AdamW, get_linear_schedule_with_warmup)
+from transformers import (BertConfig, BertTokenizer, BertForSequenceClassification, WEIGHTS_NAME, AdamW, get_linear_schedule_with_warmup, AutoTokenizer, AutoModel)
 from sklearn.metrics import f1_score
 
 
