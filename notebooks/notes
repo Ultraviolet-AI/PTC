@@ -33,3 +33,13 @@ Head of quant. Psy departments: Fordham --> need demo
 
 Need a following -- 
 Publications based off existing notes
+
+
+
+
+Startup
+---------
+git clone ....
+pip install -r requirements.txt
+
+pip install torch --upgrade
