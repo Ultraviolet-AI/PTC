@@ -13,21 +13,22 @@ from tqdm import tqdm, tqdm_notebook, trange
 import torch
 from torch.utils.data import (DataLoader, RandomSampler, SequentialSampler, TensorDataset)
 from torch.utils.data.distributed import DistributedSampler
-# from tensorboardX import SummaryWriter
+from tensorboardX import SummaryWriter
 from transformers import (BertConfig, BertTokenizer, BertForSequenceClassification, WEIGHTS_NAME, AdamW, get_linear_schedule_with_warmup, AutoTokenizer, AutoModel)
 from sklearn.metrics import f1_score
 
 
-train_articles = "/workspace/PTC/datasets/train-articles" 
-test_articles = "/workspace/PTC/datasets/test-articles"
-dev_articles = "/workspace/PTC/datasets/dev-articles"
-train_SI_labels = "/workspace/PTC/datasets/train-labels-task-si"
-train_TC_labels = "/workspace/PTC/datasets/train-labels-task-flc-tc"
-dev_SI_labels = "/workspace/PTC/datasets/dev-labels-task-si"
-dev_TC_labels = "/workspace/PTC/datasets/dev-labels-task-si/dev-labels-task-flc-tc"
+train_articles = "/floyd/home/datasets/train-articles" 
+test_articles = "/floyd/home/datasets/test-articles"
+dev_articles = "/floyd/home/datasets/dev-articles"
+train_SI_labels = "/floyd/home/datasets/train-labels-task-si"
+# train_TC_labels = "/floyd/home/datasets/train-labels-task-flc-tc_modified"
+train_TC_labels = "/floyd/home/datasets/train-labels-task-flc-tc"
+dev_SI_labels = "/floyd/home/datasets/dev-labels-task-si"
+dev_TC_labels = "/floyd/home/datasets/dev-labels-task-si/dev-labels-task-flc-tc"
 # dev_TC_labels_file = "PTC/datasets/dev-task-TC.labels" # Multiple files
-dev_TC_template = "/workspace/PTC/datasets/test-task-tc-template.out" # only .out file
-techniques = "/workspace/PTC/tools/data/propaganda-techniques-names-semeval2020task11.txt"
+test_TC_template = "/floyd/home/datasets/test-task-tc-template.out" # only .out file
+techniques = "/floyd/home/tools/data/propaganda-techniques-names-semeval2020task11.txt"
 PROP_TECH_TO_LABEL = {}
 LABEL_TO_PROP_TECH = {}
 label = 0
@@ -36,16 +37,16 @@ with open(techniques, "r") as f:
         PROP_TECH_TO_LABEL[technique.replace("\n", "")] = int(label)
         LABEL_TO_PROP_TECH[int(label)] = technique.replace("\n", "")
         label += 1
-device = torch.device("cuda")
-# device = torch.device("cpu")
+# device = torch.device("cuda")
+device = torch.device("cpu")
 n_gpu = torch.cuda.device_count()
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("LOG")
 MODEL_CLASSES = {"bert": (BertConfig, BertForSequenceClassification, BertTokenizer)}
-args = {"data_dir": "/workspace/PTC/datasets/",
+args = {"data_dir": "/floyd/home/datasets/",
         "model_type": "bert",
         "model_name": "bert-base-uncased",
-        "output_dir": '/workspace/PTC/datasets/output/SI_output',
+        "output_dir": '/floyd/home/datasets/output/SI_labels',
         "max_seq_length": 128,
         "train_batch_size": 8,
         "eval_batch_size": 8,

@@ -6,9 +6,16 @@
 
 https://medium.com/@jihwangk/fine-grained-propaganda-detection-and-classification-with-bert-dfad4acaa321
 
+https://towardsdatascience.com/gpt-3-demos-use-cases-implications-77f86e540dc1
+
 
 OPENAI
 Login: jb.anderson.uvai or microsoft (email)
+
+
+
+Need to retrain
+
 
 
 
@@ -43,3 +50,150 @@ git clone ....
 pip install -r requirements.txt
 
 pip install torch --upgrade
+
+
+Loading models
+------------------
+
+https://pytorch.org/tutorials/beginner/saving_loading_models.html
+
+
+Mechanical turk --> 
+
+Fox news transcripts
+
+Defamation --> OAN, FOX, 
+
+--> Every word scanned of defamation --> 
+
+Youtube: open transcript
+
+Tucker -- fear, certainty??
+-- so much loaded language
+-- different models for anchors
+
+
+-- load model
+-- GPT3
+-- BERT with only 2-3 classes\ pull from word list - then classify
+
+Need gold standard training data
+Sample training data with key words then sentiment
+
+-- liberal (interviews) -- much more educated position; still one-sided
+-- few weeks off
+-- expenses
+
+
+
+
+Needs to be done ... 
+
+
+Tagtog.net
+
+1. $500
+2. M-F 
+
+
+
+
+###################
+###     GPT3    ###
+###################
+
+
+PTC-LL, name calling, exaggeration
+-------------
+
+
+I am a highly intelligent propaganda detection bot. If you provide me with an article EXTRACT, I will identify the SNIPPET containing the propaganda technique (PT) as well as the type of PT.  If you you provide me with an article EXTRACT that has no identifiable PT , I will respond with "No PT detected".
+
+PT I am able to detect include: Repetition, Loaded language, Name Calling/Labeling, Exaggeration/Minimization	
+
+###
+
+EXTRACT: The sum of all this has been, as in many other episodes, that Trump and his White House are a gang that can’t shoot straight and that he’s eager to blame his allies and lash out at his enemies in ugly ways when things go wrong.
+SNIPPET: 'a gang that can’t shoot straight' 
+PT: Name Calling/Labeling
+
+###
+
+EXTRACT: But Tedros voiced alarm that "plague in Madagascar behaved in a very, very different way this year.
+SNIPPET: 'a very, very different'
+PT: Repetition
+
+###
+
+EXTRACT: She says Franken "aggressively stuck his tongue in my mouth" when the pair rehearsed a skit that featured a kiss.
+SNIPPET: 'aggressively stuck his tongue in my mouth'
+PT: Loaded Language
+
+###
+
+EXTRACT: Kavanaugh Nomination Is Exploding in Trump’s Face
+SNIPPET: 'Exploding in Trump’s Face'
+PT: Loaded Language
+
+###
+
+EXTRACT: There are plenty of other partisan, conservative judges, and plenty of conservative judges who lean towards an expansive view of presidential powers.
+SNIPPET: 'partisan, conservative judges'
+PT: Name Calling/Labeling
+
+###
+
+EXTRACT: For one thing, the president has made this an extremely high-profile episode by stringing out the process as the accusations against Kavanaugh gained credibility and even multiplied.
+SNIPPET: 'extremely high-profile episode'
+PT: Exaggeration/Minimization
+
+###
+
+EXTRACT: First he said that Brasey had to be heard; then he attacked her in terms that were a slur on all women who have been assaulted without immediately reporting it to the police, and he also blamed the Senate for not voting before she came forward.
+SNIPPET: 'a slur on all women'
+PT: Loaded Language
+
+###
+
+EXTRACT: The sum of all this has been, as in many other episodes, that Trump and his White House are a gang that can’t shoot straight and that he’s eager to blame his allies and lash out at his enemies in ugly ways when things go wrong.
+SNIPPET: 'ugly ways'
+PT: Loaded Language
+
+
+
+GPT ANSWERS
+----------------
+
+###
+
+EXTRACT: Even though not everything that’s gone wrong is Trump’s fault, he has managed to make a complete hash of Brett Kavanaugh’s nomination to fill the empty seat on the court.
+SNIPPET: 'a complete hash'
+PT: Loaded Language
+
+###
+
+EXTRACT: The president for months has blasted Strzok and Page for the bias revealed in their text messages, as well as Comey and McCabe for their leadership of the FBI.
+SNIPPET: 'blasted Strzok and Page'
+PT: Name Calling/Labeling ==> LOADED LANGUAGE
+
+###
+
+EXTRACT: Republicans on Capitol Hill, including House Intelligence Committee Chairman Devin Nunes, R-Calif., are touting the president’s order, saying it covers “pretty much everything that he wanted…and the text messages are a bonus,” a source said of Nunes.
+SNIPPET: 'touting the president’s order'
+PT: Loaded Language
+
+
+---INCORRECT -- given multiple temps
+EXTRACT: The documents Trump ordered declassified involve a renewed Foreign Intelligence Surveillance Act warrant against former campaign aide Carter Page and text messages from disgraced former FBI officials Peter Strzok and Lisa Page.
+SNIPPET: 'Trump ordered their release'  ==> DISGRACED
+PT: Loaded Language ==> NAME CALLING
+
+
+EXTRACT: With respect to some of these materials, I have been previously informed by the FBI and Justice Department that they would consider their release a red line that must not be crossed as they may compromise sources and methods.
+SNIPPET: 'red line' ==> a red line that must not be crossed
+PT: Loaded Language
+
+
+PTC - Appeal to fear/prejudice
+---------------
+

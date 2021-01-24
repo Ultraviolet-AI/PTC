@@ -1,3 +1,25 @@
+import os
+import glob
+import codecs
+import csv
+import pandas
+import logging
+import math
+import numpy
+import pickle
+from collections import defaultdict, Counter
+from multiprocessing import Pool, cpu_count
+from tqdm import tqdm, tqdm_notebook, trange
+import torch
+from torch.utils.data import (DataLoader, RandomSampler, SequentialSampler, TensorDataset)
+from torch.utils.data.distributed import DistributedSampler
+from tensorboardX import SummaryWriter
+from transformers import (BertConfig, BertTokenizer, BertForSequenceClassification, WEIGHTS_NAME, AdamW, get_linear_schedule_with_warmup, AutoTokenizer, AutoModel)
+from sklearn.metrics import f1_score
+
+
+from config import *
+
 
 def save_to_pickle(dataset, fileloc):
     """
@@ -488,9 +510,9 @@ def train(train_dataset, model, tokenizer):
                     output_dir = os.path.join(args['output_dir'], 'checkpoint-{}'.format(global_step))
                     if not os.path.exists(output_dir):
                         os.makedirs(output_dir)
-                model_to_save = model.module if hasattr(model, 'module') else model
-                model_to_save.save_pretrained(output_dir)
-                logger.info("Saving model checkpoint to %s", output_dir)
+                    model_to_save = model.module if hasattr(model, 'module') else model
+                    model_to_save.save_pretrained(output_dir)
+                    logger.info("Saving model checkpoint to %s", output_dir)
 
     return global_step, tr_loss / global_step
 
@@ -568,11 +590,11 @@ def classify_techniques(eval_dataframe, eval_dataset, model, tokenizer):
             outputs = model(**inputs)
             logits = outputs[1]
 
-    # Get predictions
-    if preds is None:
-        preds = logits.detach().cpu().numpy()
-    else:
-        preds = numpy.append(preds, logits.detach().cpu().numpy(), axis=0)
+        # Get predictions
+        if preds is None:
+            preds = logits.detach().cpu().numpy()
+        else:
+            preds = numpy.append(preds, logits.detach().cpu().numpy(), axis=0)
 
     # Get the most probable prediction
     preds = numpy.argmax(preds, axis=1)
