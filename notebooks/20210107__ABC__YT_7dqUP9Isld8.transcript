@@ -1,0 +1,939 @@
+# header = word, start, duration, confidence, speaker, speaker_confidence
+the	0.16	0.16	1.0	jonathan greenblatt	0.7422053337097168
+u.s	0.32	0.32	1.0	jonathan greenblatt	0.7422053337097168
+capitol	0.64	0.48	1.0	jonathan greenblatt	0.7422053337097168
+today	1.12	0.39	1.0	jonathan greenblatt	0.7422053337097168
+descending	1.52	0.63	1.0	jonathan greenblatt	0.7422053337097168
+into	2.159	0.23	1.0	jonathan greenblatt	0.7422053337097168
+chaos	2.399	0.48	1.0	jonathan greenblatt	0.7422053337097168
+as	2.879	0.24	1.0	jonathan greenblatt	0.7861793756484985
+a	3.12	0.15	1.0	jonathan greenblatt	0.7861793756484985
+mob	3.28	0.24	1.0	jonathan greenblatt	0.7861793756484985
+of	3.52	0.15	1.0	jonathan greenblatt	0.7861793756484985
+pro-trump	3.679	0.64	1.0	jonathan greenblatt	0.7861793756484985
+supporters	4.319	0.55	1.0	jonathan greenblatt	0.7861793756484985
+stormed	4.88	0.47	1.0	jonathan greenblatt	0.7861793756484985
+in	5.359	0.46	1.0	jonathan greenblatt	0.7861793756484985
+this	5.839	0.24	1.0	jonathan greenblatt	0.7801386833190918
+breach	6.08	0.31	1.0	jonathan greenblatt	0.7801386833190918
+in	6.399	0.08	1.0	jonathan greenblatt	0.7801386833190918
+security	6.48	0.55	1.0	jonathan greenblatt	0.7801386833190918
+now	7.04	0.23	1.0	jonathan greenblatt	0.7801386833190918
+sparking	7.279	0.46	1.0	jonathan greenblatt	0.7801386833190918
+serious	7.759	0.48	1.0	jonathan greenblatt	0.7801386833190918
+questions	8.24	0.56	1.0	jonathan greenblatt	0.7801386833190918
+how	8.8	0.16	1.0	jonathan greenblatt	0.7801386833190918
+did	8.96	0.07	1.0	jonathan greenblatt	0.7801386833190918
+this	9.04	0.24	1.0	jonathan greenblatt	0.7801386833190918
+happen	9.28	0.79	1.0	jonathan greenblatt	0.7801386833190918
+earlier	10.08	0.47	1.0	jonathan greenblatt	0.840460193157196
+i	10.559	0.16	1.0	jonathan greenblatt	0.840460193157196
+spoke	10.719	0.16	1.0	jonathan greenblatt	0.840460193157196
+with	10.88	0.23	1.0	jonathan greenblatt	0.840460193157196
+abc	11.12	0.39	1.0	jonathan greenblatt	0.840460193157196
+news	11.519	0.32	1.0	jonathan greenblatt	0.840460193157196
+chief	11.84	0.23	1.0	jonathan greenblatt	0.840460193157196
+justice	12.08	0.4	1.0	jonathan greenblatt	0.840460193157196
+correspondent	12.48	0.71	1.0	jonathan greenblatt	0.840460193157196
+pierre	13.2	0.31	1.0	jonathan greenblatt	0.840460193157196
+thomas	13.519	1.1	1.0	jonathan greenblatt	0.840460193157196
+pierre	14.639	0.88	1.0		0.0
+we	15.519	0.24	1.0	jonathan greenblatt	0.854265820980072
+knew	15.759	0.4	1.0	jonathan greenblatt	0.854265820980072
+that	16.16	0.39	1.0	jonathan greenblatt	0.854265820980072
+there	16.56	0.24	1.0	jonathan greenblatt	0.854265820980072
+could	16.8	0.16	1.0	jonathan greenblatt	0.854265820980072
+be	16.96	0.22	1.0	jonathan greenblatt	0.854265820980072
+trouble	17.199	0.32	1.0	jonathan greenblatt	0.854265820980072
+today	17.52	0.46	1.0	jonathan greenblatt	0.854265820980072
+law	18.0	0.16	1.0	jonathan greenblatt	0.854265820980072
+enforcement	18.16	0.55	1.0	jonathan greenblatt	0.854265820980072
+knew	18.72	0.16	1.0	jonathan greenblatt	0.854265820980072
+that	18.88	0.23	1.0	jonathan greenblatt	0.854265820980072
+there	19.119	0.16	1.0	jonathan greenblatt	0.854265820980072
+wasn't	19.279	0.31	1.0	jonathan greenblatt	0.854265820980072
+there	19.6	0.16	1.0	jonathan greenblatt	0.854265820980072
+was	19.76	0.23	1.0	jonathan greenblatt	0.854265820980072
+intel	20.0	0.48	1.0	jonathan greenblatt	0.854265820980072
+about	20.48	0.23	1.0	jonathan greenblatt	0.854265820980072
+that	20.72	0.7	1.0	jonathan greenblatt	0.854265820980072
+why	21.439	0.32	1.0	jonathan greenblatt	0.702653419971466
+was	21.76	0.23	1.0	jonathan greenblatt	0.702653419971466
+law	22.0	0.16	1.0	jonathan greenblatt	0.702653419971466
+enforcement	22.16	0.71	1.0	jonathan greenblatt	0.702653419971466
+so	22.88	0.23	1.0	jonathan greenblatt	0.702653419971466
+unprepared	23.119	0.87	1.0	jonathan greenblatt	0.702653419971466
+the	24.0	0.16	1.0	jonathan greenblatt	0.702653419971466
+bottom	24.16	0.32	1.0	jonathan greenblatt	0.702653419971466
+line	24.48	0.32	1.0	jonathan greenblatt	0.702653419971466
+is	24.8	0.16	1.0	jonathan greenblatt	0.702653419971466
+that	24.96	0.15	1.0	jonathan greenblatt	0.702653419971466
+there	25.119	0.24	1.0	jonathan greenblatt	0.702653419971466
+was	25.359	0.39	1.0	jonathan greenblatt	0.702653419971466
+concern	25.76	0.47	1.0	jonathan greenblatt	0.702653419971466
+that	26.24	0.16	1.0	jonathan greenblatt	0.702653419971466
+there	26.4	0.24	1.0	jonathan greenblatt	0.702653419971466
+could	26.64	0.23	1.0	jonathan greenblatt	0.702653419971466
+be	26.88	0.23	1.0	jonathan greenblatt	0.702653419971466
+violence	27.119	0.8	1.0	jonathan greenblatt	0.702653419971466
+and	27.92	0.22	1.0		0.0
+the	28.16	0.23	1.0		0.0
+fact	28.4	0.24	1.0		0.0
+that	28.64	0.16	1.0		0.0
+those	28.8	0.62	1.0		0.0
+protesters	29.439	0.88	1.0		0.0
+rioters	30.32	0.48	1.0		0.0
+were	30.8	0.31	1.0		0.0
+so	31.119	0.32	1.0		0.0
+easily	31.439	0.4	1.0		0.0
+able	31.84	0.3	1.0		0.0
+to	32.16	0.31	1.0		0.0
+reach	32.48	0.56	1.0		0.0
+those	33.04	0.24	1.0		0.0
+initial	33.28	0.47	1.0		0.0
+barriers	33.76	0.71	1.0		0.0
+outside	34.48	0.32	1.0		0.0
+of	34.8	0.07	1.0		0.0
+the	34.88	0.15	1.0		0.0
+capitol	35.04	0.86	1.0		0.0
+then	35.92	0.79	1.0		0.0
+use	36.719	0.24	1.0		0.0
+chemical	36.96	0.64	1.0		0.0
+irritants	37.6	0.71	1.0		0.0
+and	38.32	0.07	1.0		0.0
+then	38.399	0.31	1.0		0.0
+make	38.719	0.15	1.0		0.0
+their	38.879	0.24	1.0		0.0
+way	39.12	0.16	1.0		0.0
+to	39.28	0.15	1.0		0.0
+the	39.44	0.08	1.0		0.0
+capitol	39.52	0.39	1.0		0.0
+building	39.92	0.39	1.0		0.0
+and	40.32	0.22	1.0		0.0
+force	40.559	0.4	1.0		0.0
+their	40.96	0.15	1.0		0.0
+way	41.12	0.24	1.0		0.0
+in	41.36	0.48	1.0		0.0
+usually	41.84	0.55	1.0		0.0
+they	42.399	0.15	1.0	jonathan greenblatt	0.7140023827552795
+have	42.559	0.24	1.0	jonathan greenblatt	0.7140023827552795
+so	42.8	0.15	1.0	jonathan greenblatt	0.7140023827552795
+many	42.96	0.24	1.0	jonathan greenblatt	0.7140023827552795
+law	43.2	0.23	1.0	jonathan greenblatt	0.7140023827552795
+enforcement	43.44	0.87	1.0	jonathan greenblatt	0.7140023827552795
+of	44.32	0.32	1.0	jonathan greenblatt	0.7140023827552795
+officials	44.64	0.56	1.0	jonathan greenblatt	0.7140023827552795
+available	45.2	0.55	1.0	jonathan greenblatt	0.7140023827552795
+and	45.76	0.31	1.0	jonathan greenblatt	0.7140023827552795
+visible	46.079	0.72	1.0	jonathan greenblatt	0.7140023827552795
+that	46.8	0.15	1.0	jonathan greenblatt	0.7140023827552795
+people	46.96	0.39	1.0	jonathan greenblatt	0.7140023827552795
+know	47.36	0.24	1.0	jonathan greenblatt	0.7140023827552795
+not	47.6	0.15	1.0	jonathan greenblatt	0.7140023827552795
+to	47.76	0.16	1.0	jonathan greenblatt	0.7140023827552795
+try	47.92	0.71	1.0	jonathan greenblatt	0.7140023827552795
+anything	48.64	0.79	1.0		0.0
+that	49.44	0.24	1.0		0.0
+didn't	49.68	0.24	1.0		0.0
+happen	49.92	0.31	1.0		0.0
+today	50.239	0.56	1.0		0.0
+and	50.8	0.06	1.0		0.0
+there	50.879	0.16	1.0		0.0
+will	51.039	0.15	1.0		0.0
+be	51.199	0.16	1.0		0.0
+lots	51.36	0.24	1.0		0.0
+of	51.6	0.07	1.0		0.0
+investigations	51.68	0.7	1.0		0.0
+going	52.399	0.32	1.0		0.0
+forward	52.719	0.32	1.0		0.0
+to	53.039	0.15	1.0		0.0
+see	53.199	0.31	1.0		0.0
+why	53.52	0.23	1.0		0.0
+this	53.76	0.16	1.0		0.0
+happened	53.92	0.71	1.0		0.0
+how	54.64	0.15	1.0	jonathan greenblatt	0.8331903934478759
+are	54.8	0.16	1.0	jonathan greenblatt	0.8331903934478759
+they	54.96	0.15	1.0	jonathan greenblatt	0.8331903934478759
+able	55.12	0.24	1.0	jonathan greenblatt	0.8331903934478759
+to	55.36	0.23	1.0	jonathan greenblatt	0.8331903934478759
+finally	55.6	0.32	1.0	jonathan greenblatt	0.8331903934478759
+get	55.92	0.15	1.0	jonathan greenblatt	0.8331903934478759
+it	56.079	0.08	1.0	jonathan greenblatt	0.8331903934478759
+under	56.16	0.32	1.0	jonathan greenblatt	0.8331903934478759
+control	56.48	0.7	1.0	jonathan greenblatt	0.8331903934478759
+and	57.199	0.24	1.0	jonathan greenblatt	0.8331903934478759
+what	57.44	0.24	1.0	jonathan greenblatt	0.8331903934478759
+happens	57.68	0.39	1.0	jonathan greenblatt	0.8331903934478759
+next	58.079	0.24	1.0	jonathan greenblatt	0.8331903934478759
+from	58.32	0.07	1.0	jonathan greenblatt	0.8331903934478759
+a	58.399	0.08	1.0	jonathan greenblatt	0.8331903934478759
+law	58.48	0.15	1.0	jonathan greenblatt	0.8331903934478759
+enforcement	58.64	0.39	1.0	jonathan greenblatt	0.8331903934478759
+perspective	59.039	1.03	1.0	jonathan greenblatt	0.8331903934478759
+sheer	60.079	0.32	1.0		0.0
+manpower	60.399	0.55	1.0		0.0
+byron	60.96	0.54	1.0		0.0
+at	61.52	0.07	1.0		0.0
+the	61.6	0.15	1.0		0.0
+end	61.76	0.16	1.0		0.0
+of	61.92	0.07	1.0		0.0
+the	62.0	0.07	1.0		0.0
+day	62.079	0.24	1.0		0.0
+we	62.32	0.23	1.0		0.0
+had	62.559	0.8	1.0		0.0
+1200	63.359	0.64	1.0		0.0
+over	64.0	0.22	1.0		0.0
+1200	64.239	1.26	1.0		0.0
+d.c	65.519	0.64	1.0		0.0
+national	66.159	0.48	1.0		0.0
+guard	66.64	0.4	1.0		0.0
+sent	67.04	0.23	1.0		0.0
+to	67.28	0.07	1.0		0.0
+the	67.36	0.15	1.0		0.0
+scene	67.52	0.62	1.0		0.0
+hundreds	68.159	0.48	1.0		0.0
+of	68.64	0.07	1.0		0.0
+federal	68.72	0.32	1.0		0.0
+law	69.04	0.15	1.0		0.0
+enforcement	69.2	0.86	1.0		0.0
+officials	70.08	0.48	1.0		0.0
+sent	70.56	0.23	1.0		0.0
+to	70.799	0.08	1.0		0.0
+the	70.88	0.16	1.0		0.0
+scene	71.04	0.39	1.0		0.0
+so	71.439	0.16	1.0		0.0
+they	71.6	0.31	1.0		0.0
+simply	71.92	1.03	1.0		0.0
+built	72.96	0.32	1.0		0.0
+up	73.28	0.07	1.0		0.0
+the	73.36	0.15	1.0		0.0
+numbers	73.52	0.71	1.0		0.0
+got	74.24	0.23	1.0		0.0
+control	74.479	0.32	1.0		0.0
+of	74.799	0.16	1.0		0.0
+the	74.96	0.08	1.0		0.0
+building	75.04	0.39	1.0		0.0
+and	75.439	0.08	1.0		0.0
+then	75.52	0.22	1.0		0.0
+proceeded	75.759	0.48	1.0		0.0
+to	76.24	0.23	1.0		0.0
+move	76.479	0.64	1.0		0.0
+around	77.119	0.4	1.0		0.0
+the	77.52	0.16	1.0		0.0
+capital	77.68	0.54	1.0		0.0
+to	78.24	0.16	1.0		0.0
+force	78.4	0.23	1.0		0.0
+the	78.64	0.15	1.0		0.0
+people	78.799	0.24	1.0		0.0
+out	79.04	1.67	1.0		0.0
+thank	80.72	0.15	1.0	jonathan greenblatt	0.8471661329269409
+you	80.88	0.23	1.0	jonathan greenblatt	0.8471661329269409
+pierre	81.119	0.62	1.0	jonathan greenblatt	0.8471661329269409
+and	81.759	0.16	1.0	jonathan greenblatt	0.8471661329269409
+to	81.92	0.15	1.0	jonathan greenblatt	0.8471661329269409
+further	82.08	0.32	1.0	jonathan greenblatt	0.8471661329269409
+break	82.4	0.23	1.0	jonathan greenblatt	0.8471661329269409
+down	82.64	0.23	1.0	jonathan greenblatt	0.8471661329269409
+this	82.88	0.23	1.0	jonathan greenblatt	0.8471661329269409
+question	83.119	0.39	1.0	jonathan greenblatt	0.8471661329269409
+about	83.52	0.23	1.0	jonathan greenblatt	0.8471661329269409
+security	83.759	0.64	1.0	jonathan greenblatt	0.8471661329269409
+i'm	84.4	0.15	1.0	jonathan greenblatt	0.8471661329269409
+joined	84.56	0.31	1.0	jonathan greenblatt	0.8471661329269409
+by	84.88	0.16	1.0	jonathan greenblatt	0.8471661329269409
+brad	85.04	0.38	1.0	jonathan greenblatt	0.8471661329269409
+garrett	85.439	0.4	1.0	jonathan greenblatt	0.8471661329269409
+former	85.84	0.39	1.0	jonathan greenblatt	0.8471661329269409
+fbi	86.24	0.48	1.0	jonathan greenblatt	0.8471661329269409
+agent	86.72	0.32	1.0	jonathan greenblatt	0.7430783987045289
+and	87.04	0.15	1.0	jonathan greenblatt	0.7430783987045289
+abc	87.2	0.48	1.0	jonathan greenblatt	0.7430783987045289
+news	87.68	0.14	1.0	jonathan greenblatt	0.7430783987045289
+contributor	87.84	0.86	1.0	jonathan greenblatt	0.7430783987045289
+and	88.72	0.23	1.0	jonathan greenblatt	0.7430783987045289
+jonathan	88.96	0.47	1.0	jonathan greenblatt	0.7430783987045289
+greenblatt	89.439	0.8	1.0	jonathan greenblatt	0.7430783987045289
+the	90.24	0.16	1.0	jonathan greenblatt	0.7430783987045289
+ceo	90.4	0.39	1.0	jonathan greenblatt	0.7430783987045289
+of	90.799	0.08	1.0	jonathan greenblatt	0.7635388851165772
+the	90.88	0.07	1.0	jonathan greenblatt	0.7635388851165772
+anti-defamation	90.96	0.88	1.0	jonathan greenblatt	0.7635388851165772
+league	91.84	0.23	1.0	jonathan greenblatt	0.7456692337989808
+gentlemen	92.079	0.32	1.0	jonathan greenblatt	0.7456692337989808
+thank	92.4	0.14	1.0	jonathan greenblatt	0.7456692337989808
+you	92.56	0.15	1.0	jonathan greenblatt	0.7456692337989808
+both	92.72	0.15	1.0	jonathan greenblatt	0.7456692337989808
+for	92.88	0.16	1.0	jonathan greenblatt	0.7456692337989808
+joining	93.04	0.31	1.0	jonathan greenblatt	0.7456692337989808
+us	93.36	0.07	1.0	jonathan greenblatt	0.7456692337989808
+and	93.439	0.08	1.0	jonathan greenblatt	0.7456692337989808
+brad	93.52	0.23	1.0	jonathan greenblatt	0.7456692337989808
+first	93.759	0.23	1.0	jonathan greenblatt	0.7456692337989808
+question	94.0	0.31	1.0	jonathan greenblatt	0.7456692337989808
+to	94.32	0.15	1.0	jonathan greenblatt	0.7456692337989808
+you	94.479	0.62	1.0	jonathan greenblatt	0.7456692337989808
+police	95.119	0.56	1.0	jonathan greenblatt	0.705210018157959
+knew	95.68	0.39	1.0	jonathan greenblatt	0.705210018157959
+that	96.079	0.4	1.0	jonathan greenblatt	0.705210018157959
+president	96.479	0.32	1.0	jonathan greenblatt	0.705210018157959
+trump's	96.799	0.3	1.0	jonathan greenblatt	0.705210018157959
+staunch	97.119	0.48	1.0	jonathan greenblatt	0.705210018157959
+supporters	97.6	0.47	1.0	jonathan greenblatt	0.705210018157959
+would	98.079	0.08	1.0	jonathan greenblatt	0.705210018157959
+be	98.159	0.23	1.0	jonathan greenblatt	0.705210018157959
+protesting	98.4	0.55	1.0	jonathan greenblatt	0.705210018157959
+in	98.96	0.15	1.0	jonathan greenblatt	0.705210018157959
+washington	99.119	0.48	1.0	jonathan greenblatt	0.705210018157959
+yet	99.6	0.15	1.0	jonathan greenblatt	0.705210018157959
+the	99.759	0.24	1.0	jonathan greenblatt	0.705210018157959
+capital	100.0	0.39	1.0	jonathan greenblatt	0.705210018157959
+was	100.4	0.23	1.0	jonathan greenblatt	0.705210018157959
+overtaken	100.64	1.26	1.0	jonathan greenblatt	0.705210018157959
+what	101.92	0.23	1.0	jonathan greenblatt	0.709694254398346
+went	102.159	0.31	1.0	jonathan greenblatt	0.709694254398346
+wrong	102.479	0.32	1.0	jonathan greenblatt	0.709694254398346
+and	102.799	0.31	1.0	jonathan greenblatt	0.709694254398346
+what	103.119	0.16	1.0	jonathan greenblatt	0.709694254398346
+did	103.28	0.23	1.0	jonathan greenblatt	0.709694254398346
+law	103.52	0.15	1.0	jonathan greenblatt	0.709694254398346
+enforcement	103.68	0.95	1.0	jonathan greenblatt	0.709694254398346
+seem	104.64	0.4	1.0	jonathan greenblatt	0.709694254398346
+so	105.04	0.62	1.0	jonathan greenblatt	0.709694254398346
+off	105.68	0.31	1.0	jonathan greenblatt	0.709694254398346
+guard	106.0	1.35	1.0	jonathan greenblatt	0.709694254398346
+completely	107.36	0.56	1.0	jonathan greenblatt	0.7310389995574951
+off	107.92	0.31	1.0	jonathan greenblatt	0.7310389995574951
+guard	108.24	0.46	1.0	jonathan greenblatt	0.7310389995574951
+byron	108.72	0.56	1.0	jonathan greenblatt	0.7310389995574951
+in	109.28	0.56	1.0	jonathan greenblatt	0.7310389995574951
+developing	109.84	0.63	1.0	jonathan greenblatt	0.7310389995574951
+some	110.479	0.24	1.0	jonathan greenblatt	0.7310389995574951
+sort	110.72	0.23	1.0	jonathan greenblatt	0.7310389995574951
+of	110.96	0.24	1.0	jonathan greenblatt	0.7310389995574951
+outward	111.2	0.54	1.0	jonathan greenblatt	0.7310389995574951
+perimeter	111.759	1.03	1.0	jonathan greenblatt	0.7310389995574951
+with	112.799	0.4	1.0		0.0
+force	113.2	0.71	1.0		0.0
+in	113.92	0.15	1.0	jonathan greenblatt	0.7016684532165527
+other	114.079	0.24	1.0	jonathan greenblatt	0.7016684532165527
+words	114.32	0.56	1.0	jonathan greenblatt	0.7016684532165527
+national	114.88	0.48	1.0	jonathan greenblatt	0.7016684532165527
+guard	115.36	0.87	1.0	jonathan greenblatt	0.7016684532165527
+or	116.24	0.23	1.0	jonathan greenblatt	0.7045809745788574
+a	116.479	0.16	1.0	jonathan greenblatt	0.7045809745788574
+tremendous	116.64	0.56	1.0	jonathan greenblatt	0.7045809745788574
+number	117.2	0.23	1.0	jonathan greenblatt	0.7045809745788574
+of	117.439	0.16	1.0	jonathan greenblatt	0.7045809745788574
+uniformed	117.6	0.54	1.0	jonathan greenblatt	0.7045809745788574
+officers	118.159	0.88	1.0	jonathan greenblatt	0.7045809745788574
+to	119.04	0.31	1.0	jonathan greenblatt	0.7045809745788574
+never	119.36	0.46	1.0	jonathan greenblatt	0.7045809745788574
+allow	119.84	0.47	1.0	jonathan greenblatt	0.7045809745788574
+the	120.32	0.15	1.0	jonathan greenblatt	0.7045809745788574
+protesters	120.479	0.72	1.0	jonathan greenblatt	0.7045809745788574
+to	121.2	0.15	1.0	jonathan greenblatt	0.7045809745788574
+actually	121.36	0.39	1.0	jonathan greenblatt	0.7045809745788574
+get	121.759	0.31	1.0	jonathan greenblatt	0.7045809745788574
+physically	122.079	0.48	1.0	jonathan greenblatt	0.7045809745788574
+to	122.56	0.15	1.0	jonathan greenblatt	0.7045809745788574
+the	122.719	0.16	1.0	jonathan greenblatt	0.7045809745788574
+capital	122.88	0.79	1.0	jonathan greenblatt	0.7045809745788574
+i	123.68	0.15	1.0	jonathan greenblatt	0.7045809745788574
+would	123.84	0.15	1.0	jonathan greenblatt	0.7045809745788574
+say	124.0	0.31	1.0	jonathan greenblatt	0.7045809745788574
+the	124.32	0.24	1.0	jonathan greenblatt	0.7045809745788574
+ellipse	124.56	0.39	1.0	jonathan greenblatt	0.7045809745788574
+which	124.96	0.15	1.0	jonathan greenblatt	0.7045809745788574
+should	125.119	0.23	1.0	jonathan greenblatt	0.7045809745788574
+have	125.36	0.07	1.0	jonathan greenblatt	0.7045809745788574
+been	125.439	0.24	1.0	jonathan greenblatt	0.7045809745788574
+the	125.68	0.15	1.0	jonathan greenblatt	0.7045809745788574
+furthest	125.84	0.86	1.0	jonathan greenblatt	0.7045809745788574
+and	126.719	0.24	1.0	jonathan greenblatt	0.7781799554824829
+that's	126.96	0.32	1.0	jonathan greenblatt	0.7781799554824829
+really	127.28	0.23	1.0	jonathan greenblatt	0.7781799554824829
+where	127.52	0.16	1.0	jonathan greenblatt	0.7781799554824829
+the	127.68	0.23	1.0	jonathan greenblatt	0.7781799554824829
+problem	127.92	0.46	1.0	jonathan greenblatt	0.7781799554824829
+started	128.399	0.96	1.0	jonathan greenblatt	0.7781799554824829
+so	129.36	0.54	1.0	jonathan greenblatt	0.7781799554824829
+they	129.92	0.16	1.0	jonathan greenblatt	0.7144765377044677
+had	130.08	0.23	1.0	jonathan greenblatt	0.7144765377044677
+the	130.319	0.16	1.0	jonathan greenblatt	0.7144765377044677
+intel	130.479	0.8	1.0	jonathan greenblatt	0.7144765377044677
+why	131.28	0.24	1.0	jonathan greenblatt	0.7144765377044677
+they	131.52	0.15	1.0	jonathan greenblatt	0.7144765377044677
+weren't	131.68	0.22	1.0	jonathan greenblatt	0.7144765377044677
+there	131.92	0.56	1.0	jonathan greenblatt	0.7144765377044677
+remains	132.48	0.39	1.0	jonathan greenblatt	0.7144765377044677
+to	132.879	0.16	1.0	jonathan greenblatt	0.7144765377044677
+be	133.04	0.15	1.0	jonathan greenblatt	0.7144765377044677
+seen	133.2	0.87	1.0	jonathan greenblatt	0.7144765377044677
+and	134.08	0.15	1.0	jonathan greenblatt	0.7140996336936951
+jonathan	134.239	0.4	1.0	jonathan greenblatt	0.7140996336936951
+at	134.64	0.16	1.0	jonathan greenblatt	0.7140996336936951
+this	134.8	0.31	1.0	jonathan greenblatt	0.7140996336936951
+point	135.12	0.56	1.0	jonathan greenblatt	0.7140996336936951
+what	135.68	0.15	1.0	jonathan greenblatt	0.7140996336936951
+can	135.84	0.15	1.0	jonathan greenblatt	0.7140996336936951
+you	136.0	0.15	1.0	jonathan greenblatt	0.7140996336936951
+tell	136.16	0.24	1.0	jonathan greenblatt	0.7140996336936951
+us	136.4	0.15	1.0	jonathan greenblatt	0.7140996336936951
+about	136.56	0.31	1.0	jonathan greenblatt	0.7140996336936951
+the	136.879	0.16	1.0	jonathan greenblatt	0.7140996336936951
+groups	137.04	0.32	1.0	jonathan greenblatt	0.7140996336936951
+or	137.36	0.15	1.0	jonathan greenblatt	0.7140996336936951
+protesters	137.52	0.62	1.0	jonathan greenblatt	0.7140996336936951
+who	138.16	0.07	1.0	jonathan greenblatt	0.7140996336936951
+were	138.239	0.24	1.0	jonathan greenblatt	0.7140996336936951
+there	138.48	0.38	1.0	jonathan greenblatt	0.7140996336936951
+do	138.879	0.16	1.0	jonathan greenblatt	0.7226028323173523
+you	139.04	0.08	1.0	jonathan greenblatt	0.7226028323173523
+consider	139.12	0.4	1.0	jonathan greenblatt	0.7226028323173523
+them	139.52	0.15	1.0	jonathan greenblatt	0.7226028323173523
+domestic	139.68	0.55	1.0	jonathan greenblatt	0.7226028323173523
+terrorists	140.239	0.47	1.0	jonathan greenblatt	0.7226028323173523
+and	140.72	0.15	1.0	jonathan greenblatt	0.7226028323173523
+if	140.879	0.24	1.0	jonathan greenblatt	0.7226028323173523
+so	141.12	0.24	1.0	jonathan greenblatt	0.7226028323173523
+why	141.36	1.75	1.0	jonathan greenblatt	0.7226028323173523
+well	143.12	0.24	1.0	jonathan greenblatt	0.8614378452301026
+this	143.36	0.15	1.0	jonathan greenblatt	0.8614378452301026
+was	143.52	0.15	1.0	jonathan greenblatt	0.8614378452301026
+a	143.68	0.15	1.0	jonathan greenblatt	0.8614378452301026
+dark	143.84	0.24	1.0	jonathan greenblatt	0.8614378452301026
+day	144.08	0.15	1.0	jonathan greenblatt	0.8614378452301026
+for	144.239	0.16	1.0	jonathan greenblatt	0.8614378452301026
+democracy	144.4	0.71	1.0	jonathan greenblatt	0.8614378452301026
+our	145.12	0.15	1.0	jonathan greenblatt	0.8614378452301026
+country	145.28	0.4	1.0	jonathan greenblatt	0.8614378452301026
+has	145.68	0.15	1.0	jonathan greenblatt	0.8614378452301026
+withstood	145.84	0.56	1.0	jonathan greenblatt	0.8614378452301026
+all	146.4	0.15	1.0	jonathan greenblatt	0.8614378452301026
+kinds	146.56	0.24	1.0	jonathan greenblatt	0.8614378452301026
+of	146.8	0.14	1.0	jonathan greenblatt	0.8614378452301026
+challenges	146.959	0.48	1.0	jonathan greenblatt	0.8614378452301026
+but	147.44	0.15	1.0	jonathan greenblatt	0.8614378452301026
+never	147.599	0.24	1.0	jonathan greenblatt	0.8614378452301026
+before	147.84	0.71	1.0	jonathan greenblatt	0.8614378452301026
+seen	148.56	0.24	1.0	jonathan greenblatt	0.8166690945625306
+an	148.8	0.15	1.0	jonathan greenblatt	0.8166690945625306
+act	148.959	0.16	1.0	jonathan greenblatt	0.8166690945625306
+of	149.12	0.07	1.0	jonathan greenblatt	0.8166690945625306
+domestic	149.2	0.56	1.0	jonathan greenblatt	0.8166690945625306
+terror	149.76	0.62	1.0	jonathan greenblatt	0.8166690945625306
+perpetrated	150.4	0.71	1.0	jonathan greenblatt	0.8559447407722474
+in	151.12	0.07	1.0	jonathan greenblatt	0.8559447407722474
+the	151.2	0.24	1.0	jonathan greenblatt	0.8559447407722474
+capital	151.44	0.56	1.0	jonathan greenblatt	0.8559447407722474
+of	152.0	0.15	1.0	jonathan greenblatt	0.8559447407722474
+our	152.16	0.22	1.0	jonathan greenblatt	0.8559447407722474
+country	152.4	0.87	1.0	jonathan greenblatt	0.8559447407722474
+it	153.28	0.08	1.0	jonathan greenblatt	0.7680814743041993
+was	153.36	0.23	1.0	jonathan greenblatt	0.7680814743041993
+a	153.599	0.16	1.0	jonathan greenblatt	0.7680814743041993
+who's	153.76	0.4	1.0	jonathan greenblatt	0.7680814743041993
+who	154.16	0.24	1.0	jonathan greenblatt	0.7680814743041993
+today	154.4	0.79	1.0	jonathan greenblatt	0.7680814743041993
+of	155.2	0.16	1.0	jonathan greenblatt	0.872447419166565
+right-wing	155.36	0.54	1.0	jonathan greenblatt	0.872447419166565
+extremists	155.92	1.27	1.0	jonathan greenblatt	0.872447419166565
+from	157.2	0.39	1.0	jonathan greenblatt	0.872447419166565
+members	157.599	0.32	1.0	jonathan greenblatt	0.872447419166565
+of	157.92	0.16	1.0	jonathan greenblatt	0.872447419166565
+the	158.08	0.15	1.0	jonathan greenblatt	0.872447419166565
+proud	158.239	0.4	1.0	jonathan greenblatt	0.872447419166565
+boys	158.64	0.8	1.0	jonathan greenblatt	0.872447419166565
+to	159.44	0.15	1.0	jonathan greenblatt	0.8548776984214783
+the	159.599	0.23	1.0	jonathan greenblatt	0.8548776984214783
+oath	159.84	0.31	1.0	jonathan greenblatt	0.8548776984214783
+keepers	160.16	0.87	1.0	jonathan greenblatt	0.8548776984214783
+other	161.04	0.32	1.0	jonathan greenblatt	0.8548776984214783
+armed	161.36	0.39	1.0	jonathan greenblatt	0.8548776984214783
+militia	161.76	0.55	1.0	jonathan greenblatt	0.8548776984214783
+groups	162.319	0.72	1.0	jonathan greenblatt	0.8548776984214783
+the	163.04	0.24	1.0	jonathan greenblatt	0.8548776984214783
+groiper	163.28	0.62	1.0	jonathan greenblatt	0.8548776984214783
+nation	163.92	0.87	1.0	jonathan greenblatt	0.8548776984214783
+and	164.8	0.15	1.0	jonathan greenblatt	0.8867251157760621
+many	164.959	0.32	1.0	jonathan greenblatt	0.8867251157760621
+other	165.28	0.56	1.0	jonathan greenblatt	0.8867251157760621
+some	165.84	0.15	1.0	jonathan greenblatt	0.8867251157760621
+of	166.0	0.15	1.0	jonathan greenblatt	0.8867251157760621
+the	166.16	0.15	1.0	jonathan greenblatt	0.8867251157760621
+worst	166.319	0.31	1.0	jonathan greenblatt	0.8867251157760621
+elements	166.64	0.4	1.0	jonathan greenblatt	0.8867251157760621
+of	167.04	0.15	1.0	jonathan greenblatt	0.8867251157760621
+society	167.2	1.18	1.0	jonathan greenblatt	0.8867251157760621
+you	168.4	0.15	1.0	jonathan greenblatt	0.8635265707969666
+know	168.56	0.15	1.0	jonathan greenblatt	0.8635265707969666
+honestly	168.72	0.47	1.0	jonathan greenblatt	0.8635265707969666
+this	169.2	0.16	1.0	jonathan greenblatt	0.8635265707969666
+was	169.36	0.15	1.0	jonathan greenblatt	0.8635265707969666
+a	169.519	0.07	1.0	jonathan greenblatt	0.8635265707969666
+bit	169.599	0.16	1.0	jonathan greenblatt	0.8635265707969666
+of	169.76	0.15	1.0	jonathan greenblatt	0.8635265707969666
+a	169.92	0.07	1.0	jonathan greenblatt	0.8635265707969666
+bookend	170.0	0.71	1.0	jonathan greenblatt	0.8635265707969666
+from	170.72	0.31	1.0	jonathan greenblatt	0.8635265707969666
+charlottesville	171.04	1.26	1.0	jonathan greenblatt	0.8635265707969666
+to	172.319	0.24	1.0	jonathan greenblatt	0.7865000247955323
+capitol	172.56	0.47	1.0	jonathan greenblatt	0.7865000247955323
+hill	173.04	0.55	1.0	jonathan greenblatt	0.7865000247955323
+where	173.599	0.24	1.0	jonathan greenblatt	0.895630168914795
+you	173.84	0.07	1.0	jonathan greenblatt	0.895630168914795
+had	173.92	0.31	1.0	jonathan greenblatt	0.895630168914795
+white	174.239	0.23	1.0	jonathan greenblatt	0.895630168914795
+supremacists	174.48	0.8	1.0	jonathan greenblatt	0.895630168914795
+out	175.28	0.15	1.0	jonathan greenblatt	0.895630168914795
+in	175.44	0.15	1.0	jonathan greenblatt	0.895630168914795
+the	175.599	0.16	1.0	jonathan greenblatt	0.895630168914795
+open	175.76	0.71	1.0	jonathan greenblatt	0.895630168914795
+flight	176.48	0.32	1.0	jonathan greenblatt	0.895630168914795
+you	176.8	0.07	1.0	jonathan greenblatt	0.895630168914795
+know	176.879	0.64	1.0	jonathan greenblatt	0.895630168914795
+shattering	177.519	0.63	1.0	jonathan greenblatt	0.8336059331893921
+norms	178.159	0.71	1.0	jonathan greenblatt	0.8336059331893921
+and	178.879	0.15	1.0	jonathan greenblatt	0.8329822897911072
+really	179.04	0.32	1.0	jonathan greenblatt	0.8329822897911072
+desecrating	179.36	0.63	1.0	jonathan greenblatt	0.8329822897911072
+some	180.0	0.15	1.0	jonathan greenblatt	0.8329822897911072
+of	180.159	0.08	1.0	jonathan greenblatt	0.8329822897911072
+the	180.239	0.07	1.0	jonathan greenblatt	0.8329822897911072
+most	180.319	0.23	1.0	jonathan greenblatt	0.8329822897911072
+important	180.56	0.31	1.0	jonathan greenblatt	0.8329822897911072
+symbols	180.879	0.32	1.0	jonathan greenblatt	0.8329822897911072
+of	181.2	0.08	1.0	jonathan greenblatt	0.8329822897911072
+our	181.28	0.08	1.0	jonathan greenblatt	0.8329822897911072
+country	181.36	1.18	1.0	jonathan greenblatt	0.8329822897911072
+brett	182.56	0.31	1.0	jonathan greenblatt	0.7345478415489197
+some	182.879	0.16	1.0	jonathan greenblatt	0.7345478415489197
+are	183.04	0.24	1.0	jonathan greenblatt	0.7345478415489197
+questioning	183.28	0.4	1.0	jonathan greenblatt	0.7345478415489197
+the	183.68	0.23	1.0	jonathan greenblatt	0.7345478415489197
+speed	183.92	0.39	1.0	jonathan greenblatt	0.7345478415489197
+at	184.319	0.07	1.0	jonathan greenblatt	0.7345478415489197
+which	184.4	0.23	1.0	jonathan greenblatt	0.7345478415489197
+law	184.64	0.16	1.0	jonathan greenblatt	0.7345478415489197
+enforcement	184.8	0.47	1.0	jonathan greenblatt	0.7345478415489197
+officials	185.28	0.4	1.0	jonathan greenblatt	0.7345478415489197
+respond	185.68	0.7	1.0	jonathan greenblatt	0.7345478415489197
+to	186.4	0.15	1.0	jonathan greenblatt	0.7345478415489197
+the	186.56	0.07	1.0	jonathan greenblatt	0.7345478415489197
+security	186.64	0.48	1.0	jonathan greenblatt	0.7345478415489197
+breach	187.12	0.39	1.0	jonathan greenblatt	0.7345478415489197
+and	187.519	0.16	1.0	jonathan greenblatt	0.7345478415489197
+abc	187.68	0.4	1.0	jonathan greenblatt	0.7345478415489197
+news	188.08	0.23	1.0	jonathan greenblatt	0.7345478415489197
+is	188.319	0.15	1.0	jonathan greenblatt	0.7345478415489197
+reporting	188.48	0.64	1.0	jonathan greenblatt	0.7345478415489197
+the	189.12	0.24	1.0	jonathan greenblatt	0.7345478415489197
+president's	189.36	0.39	1.0	jonathan greenblatt	0.7345478415489197
+advisers	189.76	0.79	1.0	jonathan greenblatt	0.7345478415489197
+urged	190.56	0.31	1.0	jonathan greenblatt	0.7345478415489197
+him	190.879	0.16	1.0	jonathan greenblatt	0.7345478415489197
+to	191.04	0.15	1.0	jonathan greenblatt	0.7345478415489197
+call	191.2	0.24	1.0	jonathan greenblatt	0.7345478415489197
+the	191.44	0.07	1.0	jonathan greenblatt	0.7345478415489197
+national	191.519	0.4	1.0	jonathan greenblatt	0.7345478415489197
+guard	191.92	0.38	1.0	jonathan greenblatt	0.7345478415489197
+right	192.319	0.24	1.0	jonathan greenblatt	0.7345478415489197
+away	192.56	0.63	1.0	jonathan greenblatt	0.7345478415489197
+but	193.2	0.24	1.0	jonathan greenblatt	0.8989359021186829
+he	193.44	0.24	1.0	jonathan greenblatt	0.8989359021186829
+refused	193.68	0.71	1.0	jonathan greenblatt	0.8989359021186829
+what	194.4	0.15	1.0	jonathan greenblatt	0.8989359021186829
+do	194.56	0.07	1.0	jonathan greenblatt	0.8989359021186829
+you	194.64	0.07	1.0	jonathan greenblatt	0.8989359021186829
+make	194.72	0.15	1.0	jonathan greenblatt	0.8989359021186829
+of	194.879	0.08	1.0	jonathan greenblatt	0.8989359021186829
+that	194.959	0.71	1.0	jonathan greenblatt	0.8989359021186829
+i	195.68	0.23	1.0		0.0
+i	195.92	0.16	1.0		0.0
+make	196.08	0.23	1.0		0.0
+of	196.319	0.08	1.0		0.0
+that	196.4	0.31	1.0		0.0
+that	196.72	0.15	1.0		0.0
+he	196.879	0.16	1.0		0.0
+didn't	197.04	0.32	1.0		0.0
+want	197.36	0.23	1.0		0.0
+the	197.599	0.23	1.0		0.0
+presence	197.84	0.79	1.0		0.0
+of	198.64	0.08	1.0		0.0
+the	198.72	0.15	1.0		0.0
+military	198.879	1.27	1.0		0.0
+when	200.159	0.32	1.0		0.0
+people	200.48	0.32	1.0		0.0
+are	200.8	0.15	1.0		0.0
+going	200.959	0.32	1.0		0.0
+to	201.28	0.15	1.0		0.0
+the	201.44	0.15	1.0		0.0
+capitol	201.599	0.39	1.0		0.0
+that	202.0	0.23	1.0		0.0
+support	202.239	0.4	1.0		0.0
+him	202.64	0.4	1.0		0.0
+in	203.04	0.15	1.0		0.0
+other	203.2	0.08	1.0		0.0
+words	203.28	0.31	1.0		0.0
+he	203.599	0.15	1.0		0.0
+wanted	203.76	0.32	1.0		0.0
+it	204.08	0.07	1.0		0.0
+to	204.159	0.15	1.0		0.0
+be	204.319	0.24	1.0		0.0
+open	204.56	0.23	1.0		0.0
+for	204.799	0.15	1.0		0.0
+them	204.959	0.62	1.0		0.0
+to	205.599	0.24	1.0		0.0
+literally	205.84	0.47	1.0		0.0
+go	206.319	0.32	1.0		0.0
+to	206.64	0.15	1.0		0.0
+the	206.799	0.07	1.0		0.0
+capitol	206.879	0.48	1.0		0.0
+not	207.36	0.22	1.0		0.0
+thinking	207.599	0.32	1.0		0.0
+about	207.92	0.23	1.0		0.0
+security	208.159	0.56	1.0		0.0
+or	208.72	0.15	1.0		0.0
+anything	208.879	0.48	1.0		0.0
+else	209.36	0.78	1.0		0.0
+and	210.159	0.15	1.0		0.0
+let's	210.319	0.32	1.0		0.0
+face	210.64	0.31	1.0		0.0
+it	210.959	0.32	1.0		0.0
+the	211.28	0.23	1.0		0.0
+capitol	211.519	0.4	1.0		0.0
+police	211.92	0.64	1.0		0.0
+had	212.56	0.22	1.0		0.0
+to	212.799	0.15	1.0		0.0
+deal	212.959	0.62	1.0		0.0
+with	213.599	0.24	1.0		0.0
+the	213.84	0.07	1.0		0.0
+security	213.92	1.03	1.0		0.0
+physically	214.959	0.72	1.0	jonathan greenblatt	0.7315937399864196
+of	215.68	0.15	1.0	jonathan greenblatt	0.7315937399864196
+congress	215.84	0.46	1.0	jonathan greenblatt	0.7315937399864196
+members	216.319	0.4	1.0	jonathan greenblatt	0.7315937399864196
+and	216.72	0.15	1.0	jonathan greenblatt	0.7315937399864196
+i	216.879	0.08	1.0	jonathan greenblatt	0.7315937399864196
+think	216.959	0.16	1.0	jonathan greenblatt	0.7315937399864196
+that's	217.12	0.31	1.0	jonathan greenblatt	0.7315937399864196
+why	217.44	0.15	1.0	jonathan greenblatt	0.7315937399864196
+you	217.599	0.16	1.0	jonathan greenblatt	0.7315937399864196
+saw	217.76	0.23	1.0	jonathan greenblatt	0.7315937399864196
+them	218.0	0.3	1.0	jonathan greenblatt	0.7315937399864196
+retreat	218.319	0.8	1.0	jonathan greenblatt	0.7315937399864196
+to	219.12	0.15	1.0	jonathan greenblatt	0.7315937399864196
+deal	219.28	0.31	1.0	jonathan greenblatt	0.7315937399864196
+with	219.599	0.16	1.0	jonathan greenblatt	0.7315937399864196
+that	219.76	1.28	1.0	jonathan greenblatt	0.7315937399864196
+jonathan	221.04	0.4	1.0	jonathan greenblatt	0.7191111326217652
+last	221.44	0.22	1.0	jonathan greenblatt	0.7191111326217652
+question	221.68	0.31	1.0	jonathan greenblatt	0.7191111326217652
+to	222.0	0.15	1.0	jonathan greenblatt	0.7191111326217652
+you	222.159	0.24	1.0	jonathan greenblatt	0.7191111326217652
+president	222.4	0.39	1.0	jonathan greenblatt	0.7191111326217652
+trump	222.799	0.24	1.0	jonathan greenblatt	0.7191111326217652
+leaves	223.04	0.39	1.0	jonathan greenblatt	0.7191111326217652
+office	223.44	0.31	1.0	jonathan greenblatt	0.7191111326217652
+in	223.76	0.15	1.0	jonathan greenblatt	0.7191111326217652
+just	223.92	0.31	1.0	jonathan greenblatt	0.7191111326217652
+a	224.239	0.07	1.0	jonathan greenblatt	0.7191111326217652
+couple	224.319	0.32	1.0	jonathan greenblatt	0.7191111326217652
+of	224.64	0.08	1.0	jonathan greenblatt	0.7191111326217652
+weeks	224.72	0.71	1.0	jonathan greenblatt	0.7191111326217652
+do	225.44	0.15	1.0	jonathan greenblatt	0.8424892544746398
+you	225.599	0.24	1.0	jonathan greenblatt	0.8424892544746398
+worry	225.84	0.31	1.0	jonathan greenblatt	0.8424892544746398
+that	226.159	0.24	1.0	jonathan greenblatt	0.8424892544746398
+these	226.4	0.23	1.0	jonathan greenblatt	0.8424892544746398
+hate	226.64	0.23	1.0	jonathan greenblatt	0.8424892544746398
+groups	226.879	0.48	1.0	jonathan greenblatt	0.8424892544746398
+are	227.36	0.22	1.0	jonathan greenblatt	0.8424892544746398
+now	227.599	0.32	1.0	jonathan greenblatt	0.8424892544746398
+emboldened	227.92	0.95	1.0	jonathan greenblatt	0.8424892544746398
+more	228.879	0.16	1.0	jonathan greenblatt	0.8424892544746398
+than	229.04	0.24	1.0	jonathan greenblatt	0.8424892544746398
+ever	229.28	1.18	1.0	jonathan greenblatt	0.8424892544746398
+these	230.48	0.24	1.0	jonathan greenblatt	0.8965057015419007
+hate	230.72	0.23	1.0	jonathan greenblatt	0.8965057015419007
+groups	230.959	0.24	1.0	jonathan greenblatt	0.8965057015419007
+have	231.2	0.16	1.0	jonathan greenblatt	0.8965057015419007
+been	231.36	0.15	1.0	jonathan greenblatt	0.8965057015419007
+emboldened	231.519	0.55	1.0	jonathan greenblatt	0.8965057015419007
+since	232.08	0.23	1.0	jonathan greenblatt	0.8965057015419007
+the	232.319	0.08	1.0	jonathan greenblatt	0.8965057015419007
+day	232.4	0.23	1.0	jonathan greenblatt	0.8965057015419007
+president	232.64	0.4	1.0	jonathan greenblatt	0.8965057015419007
+trump	233.04	0.24	1.0	jonathan greenblatt	0.8965057015419007
+took	233.28	0.22	1.0	jonathan greenblatt	0.8965057015419007
+office	233.519	0.4	1.0	jonathan greenblatt	0.8965057015419007
+and	233.92	0.08	1.0	jonathan greenblatt	0.8965057015419007
+spoke	234.0	0.31	1.0	jonathan greenblatt	0.8965057015419007
+about	234.319	0.24	1.0	jonathan greenblatt	0.8965057015419007
+american	234.56	0.56	1.0	jonathan greenblatt	0.8965057015419007
+carnage	235.12	0.71	1.0	jonathan greenblatt	0.8965057015419007
+in	235.84	0.15	1.0	jonathan greenblatt	0.8965057015419007
+front	236.0	0.23	1.0	jonathan greenblatt	0.8965057015419007
+of	236.239	0.07	1.0	jonathan greenblatt	0.8965057015419007
+the	236.319	0.16	1.0	jonathan greenblatt	0.8965057015419007
+capitol	236.48	0.95	1.0	jonathan greenblatt	0.8965057015419007
+and	237.439	0.4	1.0	jonathan greenblatt	0.8963354110717774
+we	237.84	0.31	1.0	jonathan greenblatt	0.8963354110717774
+know	238.159	0.24	1.0	jonathan greenblatt	0.8963354110717774
+that	238.4	0.22	1.0	jonathan greenblatt	0.8963354110717774
+it's	238.64	0.31	1.0	jonathan greenblatt	0.8963354110717774
+likely	238.959	0.32	1.0	jonathan greenblatt	0.8963354110717774
+to	239.28	0.15	1.0	jonathan greenblatt	0.8963354110717774
+get	239.439	0.24	1.0	jonathan greenblatt	0.8963354110717774
+worse	239.68	0.31	1.0	jonathan greenblatt	0.8963354110717774
+not	240.0	0.15	1.0	jonathan greenblatt	0.8963354110717774
+better	240.159	0.32	1.0	jonathan greenblatt	0.8963354110717774
+tonight	240.48	0.39	1.0	jonathan greenblatt	0.8963354110717774
+there	240.879	0.16	1.0	jonathan greenblatt	0.8963354110717774
+was	241.04	0.15	1.0	jonathan greenblatt	0.8963354110717774
+an	241.2	0.16	1.0	jonathan greenblatt	0.8963354110717774
+attack	241.36	0.3	1.0	jonathan greenblatt	0.8963354110717774
+on	241.68	0.23	1.0	jonathan greenblatt	0.8963354110717774
+governor	241.92	0.31	1.0	jonathan greenblatt	0.8963354110717774
+inslee's	242.239	0.48	1.0	jonathan greenblatt	0.8963354110717774
+home	242.72	0.62	1.0	jonathan greenblatt	0.8963354110717774
+in	243.36	0.07	1.0	jonathan greenblatt	0.870231318473816
+the	243.439	0.15	1.0	jonathan greenblatt	0.870231318473816
+state	243.599	0.16	1.0	jonathan greenblatt	0.870231318473816
+of	243.76	0.15	1.0	jonathan greenblatt	0.870231318473816
+washington	243.92	1.12	1.0	jonathan greenblatt	0.870231318473816
+this	245.04	0.32	1.0	jonathan greenblatt	0.870231318473816
+itself	245.36	0.54	1.0	jonathan greenblatt	0.870231318473816
+followed	245.92	1.02	1.0	jonathan greenblatt	0.870231318473816
+the	246.959	0.56	1.0	jonathan greenblatt	0.870231318473816
+attempt	247.519	0.4	1.0	jonathan greenblatt	0.870231318473816
+to	247.92	0.8	1.0	jonathan greenblatt	0.870231318473816
+overtake	248.72	0.56	1.0	jonathan greenblatt	0.8554388165473938
+the	249.28	0.15	1.0	jonathan greenblatt	0.8554388165473938
+michigan	249.439	0.79	1.0	jonathan greenblatt	0.8554388165473938
+state	250.239	0.48	1.0	jonathan greenblatt	0.8554388165473938
+capitol	250.72	0.47	1.0	jonathan greenblatt	0.8554388165473938
+and	251.2	0.16	1.0	jonathan greenblatt	0.8554388165473938
+lansing	251.36	0.95	1.0	jonathan greenblatt	0.8554388165473938
+attempted	252.319	0.46	1.0	jonathan greenblatt	0.8554388165473938
+plots	252.799	0.32	1.0	jonathan greenblatt	0.8554388165473938
+to	253.12	0.15	1.0	jonathan greenblatt	0.8554388165473938
+kidnap	253.28	0.4	1.0	jonathan greenblatt	0.8554388165473938
+the	253.68	0.15	1.0	jonathan greenblatt	0.8554388165473938
+governor	253.84	0.39	1.0	jonathan greenblatt	0.8554388165473938
+of	254.239	0.07	1.0	jonathan greenblatt	0.8554388165473938
+michigan	254.319	0.79	1.0	jonathan greenblatt	0.8554388165473938
+the	255.12	0.24	1.0	jonathan greenblatt	0.8554388165473938
+governor	255.36	0.31	1.0	jonathan greenblatt	0.8554388165473938
+of	255.68	0.07	1.0	jonathan greenblatt	0.8554388165473938
+virginia	255.76	1.19	1.0	jonathan greenblatt	0.8554388165473938
+look	256.959	0.56	1.0	jonathan greenblatt	0.8723169445991517
+the	257.519	0.56	1.0	jonathan greenblatt	0.8723169445991517
+we	258.079	0.14	1.0	jonathan greenblatt	0.8723169445991517
+should	258.239	0.24	1.0	jonathan greenblatt	0.8723169445991517
+recognize	258.479	0.56	1.0	jonathan greenblatt	0.8723169445991517
+that	259.04	0.54	1.0	jonathan greenblatt	0.8723169445991517
+right-wing	259.6	0.39	1.0	jonathan greenblatt	0.8723169445991517
+extremists	260.0	0.47	1.0	jonathan greenblatt	0.8723169445991517
+he	260.479	0.08	1.0	jonathan greenblatt	0.8723169445991517
+didn't	260.56	0.23	1.0	jonathan greenblatt	0.8723169445991517
+start	260.799	0.23	1.0	jonathan greenblatt	0.8723169445991517
+with	261.04	0.15	1.0	jonathan greenblatt	0.8723169445991517
+president	261.199	0.4	1.0	jonathan greenblatt	0.8723169445991517
+trump	261.6	0.47	1.0	jonathan greenblatt	0.8723169445991517
+but	262.079	0.16	1.0	jonathan greenblatt	0.8723169445991517
+he	262.24	0.23	1.0	jonathan greenblatt	0.8723169445991517
+has	262.479	0.15	1.0	jonathan greenblatt	0.8723169445991517
+amplified	262.639	0.64	1.0	jonathan greenblatt	0.8723169445991517
+and	263.28	0.16	1.0	jonathan greenblatt	0.8723169445991517
+expanded	263.44	0.47	1.0	jonathan greenblatt	0.8723169445991517
+the	263.919	0.16	1.0	jonathan greenblatt	0.8723169445991517
+issue	264.08	0.38	1.0	jonathan greenblatt	0.8723169445991517
+dramatically	264.479	0.96	1.0	jonathan greenblatt	0.8723169445991517
+it's	265.44	0.24	1.0	jonathan greenblatt	0.8771405696868897
+going	265.68	0.07	1.0	jonathan greenblatt	0.8771405696868897
+to	265.759	0.15	1.0	jonathan greenblatt	0.8771405696868897
+take	265.919	0.24	1.0	jonathan greenblatt	0.8771405696868897
+the	266.16	0.14	1.0	jonathan greenblatt	0.8771405696868897
+biden	266.32	0.4	1.0	jonathan greenblatt	0.8771405696868897
+administration	266.72	1.02	1.0	jonathan greenblatt	0.8771405696868897
+to	267.759	0.15	1.0	jonathan greenblatt	0.8771405696868897
+work	267.919	0.32	1.0	jonathan greenblatt	0.8771405696868897
+incredibly	268.24	0.63	1.0	jonathan greenblatt	0.8771405696868897
+hard	268.88	0.56	1.0	jonathan greenblatt	0.8771405696868897
+to	269.44	0.16	1.0	jonathan greenblatt	1.05
+tackle	269.6	0.31	1.0	jonathan greenblatt	1.05
+this	269.919	0.23	1.0	jonathan greenblatt	1.05
+issue	270.16	0.31	1.0	jonathan greenblatt	1.05
+and	270.479	0.08	1.0	jonathan greenblatt	1.05
+finally	270.56	0.48	1.0	jonathan greenblatt	1.05
+wrestle	271.04	0.31	1.0	jonathan greenblatt	1.05
+it	271.36	0.15	1.0	jonathan greenblatt	1.05
+to	271.52	0.08	1.0	jonathan greenblatt	1.05
+the	271.6	0.14	1.0	jonathan greenblatt	1.05
+ground	271.759	1.19	1.0	jonathan greenblatt	1.05
+gentlemen	272.96	0.4	1.0	jonathan greenblatt	0.7903027057647705
+as	273.36	0.07	1.0	jonathan greenblatt	0.7903027057647705
+you've	273.44	0.24	1.0	jonathan greenblatt	0.7903027057647705
+both	273.68	0.23	1.0	jonathan greenblatt	0.7903027057647705
+said	273.919	0.32	1.0	jonathan greenblatt	0.7903027057647705
+a	274.24	0.15	1.0	jonathan greenblatt	0.7903027057647705
+dark	274.4	0.4	1.0	jonathan greenblatt	0.7903027057647705
+day	274.8	0.31	1.0	jonathan greenblatt	0.7903027057647705
+for	275.12	0.15	1.0	jonathan greenblatt	0.7903027057647705
+america	275.28	0.47	1.0	jonathan greenblatt	0.7903027057647705
+thank	275.759	0.15	1.0	jonathan greenblatt	0.7903027057647705
+you	275.919	0.08	1.0	jonathan greenblatt	0.7903027057647705
+both	276.0	0.79	1.0	jonathan greenblatt	0.7903027057647705
+you're	276.8	0.24	1.0	jonathan greenblatt	0.7903027057647705
+welcome	277.04	1.75	1.0	jonathan greenblatt	0.7903027057647705
+hi	278.8	0.24	1.0	jonathan greenblatt	0.7078731775283813
+everyone	279.04	0.31	1.0	jonathan greenblatt	0.7078731775283813
+george	279.36	0.22	1.0	jonathan greenblatt	0.7078731775283813
+stephanopoulos	279.6	0.47	1.0	jonathan greenblatt	0.7078731775283813
+here	280.08	0.24	1.0	jonathan greenblatt	0.7078731775283813
+thanks	280.32	0.15	1.0	jonathan greenblatt	0.7078731775283813
+for	280.479	0.08	1.0	jonathan greenblatt	0.7078731775283813
+checking	280.56	0.31	1.0	jonathan greenblatt	0.7078731775283813
+out	280.88	0.07	1.0	jonathan greenblatt	0.7078731775283813
+the	280.96	0.08	1.0	jonathan greenblatt	0.7078731775283813
+abc	281.04	0.39	1.0	jonathan greenblatt	0.7078731775283813
+news	281.44	0.31	1.0	jonathan greenblatt	0.7078731775283813
+youtube	281.759	0.4	1.0	jonathan greenblatt	0.7078731775283813
+channel	282.16	0.46	1.0	jonathan greenblatt	0.7078731775283813
+if	282.639	0.08	1.0	jonathan greenblatt	0.7166000723838806
+you'd	282.72	0.15	1.0	jonathan greenblatt	0.7166000723838806
+like	282.88	0.16	1.0	jonathan greenblatt	0.7166000723838806
+to	283.04	0.07	1.0	jonathan greenblatt	0.7166000723838806
+get	283.12	0.07	1.0	jonathan greenblatt	0.7166000723838806
+more	283.199	0.24	1.0	jonathan greenblatt	0.7166000723838806
+videos	283.44	0.47	1.0	jonathan greenblatt	0.7166000723838806
+show	283.919	0.23	1.0	jonathan greenblatt	0.7166000723838806
+highlights	284.16	0.39	1.0	jonathan greenblatt	0.7166000723838806
+and	284.56	0.07	1.0	jonathan greenblatt	0.7166000723838806
+watch	284.639	0.32	1.0	jonathan greenblatt	0.7166000723838806
+live	284.96	0.23	1.0	jonathan greenblatt	0.7166000723838806
+event	285.199	0.24	1.0	jonathan greenblatt	0.7166000723838806
+coverage	285.44	0.7	1.0	jonathan greenblatt	0.7166000723838806
+click	286.16	0.23	1.0	jonathan greenblatt	0.7166000723838806
+on	286.4	0.16	1.0	jonathan greenblatt	0.7166000723838806
+the	286.56	0.16	1.0	jonathan greenblatt	0.7166000723838806
+right	286.72	0.39	1.0	jonathan greenblatt	0.7166000723838806
+over	287.12	0.31	1.0	jonathan greenblatt	0.7166000723838806
+here	287.44	0.56	1.0	jonathan greenblatt	0.7166000723838806
+to	288.0	0.14	1.0		0.0
+subscribe	288.16	0.31	1.0		0.0
+to	288.479	0.16	1.0		0.0
+our	288.639	0.24	1.0		0.0
+channel	288.88	0.31	1.0		0.0
+and	289.199	0.08	1.0		0.0
+don't	289.28	0.15	1.0		0.0
+forget	289.44	0.31	1.0		0.0
+to	289.759	0.15	1.0		0.0
+download	289.919	0.4	1.0		0.0
+the	290.32	0.07	1.0		0.0
+abc	290.4	0.4	1.0		0.0
+news	290.8	0.24	1.0		0.0
+app	291.04	0.15	1.0		0.0
+for	291.199	0.15	1.0		0.0
+breaking	291.36	0.31	1.0		0.0
+news	291.68	0.23	1.0		0.0
+alerts	291.919	0.48	1.0		0.0
+thanks	292.4	0.23	1.0		0.0
+for	292.639	0.68	1.0		0.0
+watching	293.32	3.0	1.0		0.0
+# NAME	brad_garrett	85.23
+# NAME	john_cohen	
+# NAME	jonathan	134.43
+# NAME	jonathan_gree	161.04
+# NAME	jonathan_gree_blatt	161.04
+# NAME	jonathan_greenblatt	
+# NAME	jonathan_last	221.24
+# NAME	pierre	81.43
+# NAME	pierre_thomas_pierre	13.35
+# NAME	trump	96.95	233.16
+# SYNC	[1.5348666666666666, 1.5348666666666666, [[623, 88, 827, 373], [623, 88, 827, 373]], -1.0, -1.0]
+# SYNC	[4.337666666666666, 4.337666666666666, [[562, 79, 763, 360], [562, 79, 763, 360]], -1.0, -1.0]
+# SYNC	[7.9412666666666665, 7.9412666666666665, [[536, 92, 742, 380], [536, 92, 742, 380]], -1.0, -1.0]
+# SYNC	[12.345666666666666, 12.345666666666666, [[537, 100, 741, 385], [537, 100, 741, 385]], -1.0, -1.0]
+# SYNC	[15.081733333333334, 15.081733333333334, [[553, 115, 756, 399], [553, 115, 756, 399]], -1.0, -1.0]
+# SYNC	[18.485133333333334, 18.485133333333334, [[258, 231, 416, 451], [258, 231, 416, 451]], -1.0, -1.0]
+# SYNC	[18.485133333333334, 18.485133333333334, [[889, 227, 1031, 425], [889, 227, 1031, 425]], -1.0, -1.0]
+# SYNC	[24.691333333333333, 24.691333333333333, [[568, 118, 775, 407], [568, 118, 775, 407]], -1.0, -1.0]
+# SYNC	[28.661966666666668, 28.661966666666668, [[561, 109, 762, 390], [561, 109, 762, 390]], -1.0, -1.0]
+# SYNC	[32.66596666666667, 32.66596666666667, [[544, 114, 742, 390], [544, 114, 742, 390]], -1.0, -1.0]
+# SYNC	[36.302933333333335, 36.302933333333335, [[569, 110, 772, 394], [569, 110, 772, 394]], -1.0, -1.0]
+# SYNC	[39.27256666666667, 39.27256666666667, [[549, 117, 745, 390], [549, 117, 745, 390]], -1.0, -1.0]
+# SYNC	[42.10873333333333, 42.10873333333333, [[531, 119, 756, 433], [531, 119, 756, 433]], -1.0, -1.0]
+# SYNC	[45.51213333333333, 45.51213333333333, [[540, 110, 736, 383], [540, 110, 736, 383]], -1.0, -1.0]
+# SYNC	[49.71633333333333, 49.71633333333333, [[559, 104, 758, 381], [559, 104, 758, 381]], -1.0, -1.0]
+# SYNC	[52.152100000000004, 52.152100000000004, [[563, 109, 765, 391], [563, 109, 765, 391]], -1.0, -1.0]
+# SYNC	[54.08736666666667, 54.08736666666667, [[574, 116, 780, 404], [574, 116, 780, 404]], -1.0, -1.0]
+# SYNC	[57.3573, 57.3573, [[846, 243, 986, 439], [846, 243, 986, 439]], -1.0, -1.0]
+# SYNC	[57.3573, 57.3573, [[274, 211, 424, 420], [274, 211, 424, 420]], -1.0, -1.0]
+# SYNC	[62.79606666666667, 62.79606666666667, [[503, 137, 708, 423], [503, 137, 708, 423]], -1.0, -1.0]
+# SYNC	[69.23583333333333, 69.23583333333333, [[522, 131, 727, 417], [522, 131, 727, 417]], -1.0, -1.0]
+# SYNC	[76.84343333333334, 76.84343333333334, [[539, 104, 730, 370], [539, 104, 730, 370]], -1.0, -1.0]
+# SYNC	[83.71696666666666, 83.71696666666666, [[576, 106, 798, 416], [576, 106, 798, 416]], -1.0, -1.0]
+# SYNC	[88.75533333333334, 88.75533333333334, [[896, 249, 1080, 506], [896, 249, 1080, 506]], -1.0, -1.0]
+# SYNC	[88.75533333333334, 88.75533333333334, [[241, 217, 404, 445], [241, 217, 404, 445]], -1.0, -1.0]
+# SYNC	[91.32456666666667, 91.32456666666667, [[901, 255, 1084, 511], [901, 255, 1084, 511]], -1.0, -1.0]
+# SYNC	[91.32456666666667, 91.32456666666667, [[242, 218, 404, 444], [242, 218, 404, 444]], -1.0, -1.0]
+# SYNC	[93.46003333333333, 93.46003333333333, [[900, 249, 1083, 505], [900, 249, 1083, 505]], -1.0, -1.0]
+# SYNC	[93.46003333333333, 93.46003333333333, [[242, 218, 405, 446], [242, 218, 405, 446]], -1.0, -1.0]
+# SYNC	[98.4984, 98.4984, [[1000, 258, 1164, 487], [1000, 258, 1164, 487]], -1.0, -1.0]
+# SYNC	[98.4984, 98.4984, [[159, 219, 299, 415], [159, 219, 299, 415]], -1.0, -1.0]
+# SYNC	[98.4984, 98.4984, [[556, 226, 706, 435], [556, 226, 706, 435]], -1.0, -1.0]
+# SYNC	[104.63786666666667, 104.63786666666667, [[998, 254, 1164, 486], [998, 254, 1164, 486]], -1.0, -1.0]
+# SYNC	[104.63786666666667, 104.63786666666667, [[166, 227, 302, 416], [166, 227, 302, 416]], -1.0, -1.0]
+# SYNC	[104.63786666666667, 104.63786666666667, [[557, 225, 707, 434], [557, 225, 707, 434]], -1.0, -1.0]
+# SYNC	[110.07663333333333, 110.07663333333333, [[587, 169, 821, 495], [587, 169, 821, 495]], -1.0, -1.0]
+# SYNC	[113.34656666666667, 113.34656666666667, [[601, 175, 837, 504], [601, 175, 837, 504]], -1.0, -1.0]
+# SYNC	[115.08163333333333, 115.08163333333333, [[598, 196, 830, 520], [598, 196, 830, 520]], -1.0, -1.0]
+# SYNC	[121.48803333333333, 121.48803333333333, [[597, 198, 835, 530], [597, 198, 835, 530]], -1.0, -1.0]
+# SYNC	[128.3282, 128.3282, [[598, 163, 838, 499], [598, 163, 838, 499]], -1.0, -1.0]
+# SYNC	[131.99853333333334, 131.99853333333334, [[594, 192, 842, 538], [594, 192, 842, 538]], -1.0, -1.0]
+# SYNC	[136.46966666666668, 136.46966666666668, [[1009, 281, 1166, 499], [1009, 281, 1166, 499]], -1.0, -1.0]
+# SYNC	[136.46966666666668, 136.46966666666668, [[555, 223, 707, 435], [555, 223, 707, 435]], -1.0, -1.0]
+# SYNC	[136.46966666666668, 136.46966666666668, [[122, 235, 260, 427], [122, 235, 260, 427]], -1.0, -1.0]
+# SYNC	[141.00753333333333, 141.00753333333333, [[551, 219, 706, 435], [551, 219, 706, 435]], -1.0, -1.0]
+# SYNC	[141.00753333333333, 141.00753333333333, [[1009, 261, 1164, 477], [1009, 261, 1164, 477]], -1.0, -1.0]
+# SYNC	[141.00753333333333, 141.00753333333333, [[138, 230, 280, 428], [138, 230, 280, 428]], -1.0, -1.0]
+# SYNC	[145.8457, 145.8457, [[498, 108, 732, 434], [498, 108, 732, 434]], -1.0, -1.0]
+# SYNC	[149.48266666666666, 149.48266666666666, [[494, 118, 733, 451], [494, 118, 733, 451]], -1.0, -1.0]
+# SYNC	[151.81833333333333, 151.81833333333333, [[488, 104, 730, 442], [488, 104, 730, 442]], -1.0, -1.0]
+# SYNC	[154.2541, 154.2541, [[493, 109, 730, 439], [493, 109, 730, 439]], -1.0, -1.0]
+# SYNC	[157.32383333333334, 157.32383333333334, [[490, 121, 729, 454], [490, 121, 729, 454]], -1.0, -1.0]
+# SYNC	[162.12863333333334, 162.12863333333334, [[500, 125, 737, 455], [500, 125, 737, 455]], -1.0, -1.0]
+# SYNC	[166.59976666666668, 166.59976666666668, [[487, 114, 726, 447], [487, 114, 726, 447]], -1.0, -1.0]
+# SYNC	[170.3702, 170.3702, [[490, 128, 729, 461], [490, 128, 729, 461]], -1.0, -1.0]
+# SYNC	[172.9728, 172.9728, [[486, 122, 728, 460], [486, 122, 728, 460]], -1.0, -1.0]
+# SYNC	[175.5754, 175.5754, [[487, 111, 723, 440], [487, 111, 723, 440]], -1.0, -1.0]
+# SYNC	[178.21136666666666, 178.21136666666666, [[475, 118, 720, 460], [475, 118, 720, 460]], -1.0, -1.0]
+# SYNC	[180.71386666666666, 180.71386666666666, [[468, 115, 713, 457], [468, 115, 713, 457]], -1.0, -1.0]
+# SYNC	[187.8877, 187.8877, [[1004, 257, 1169, 487], [1004, 257, 1169, 487]], -1.0, -1.0]
+# SYNC	[187.8877, 187.8877, [[545, 230, 702, 448], [545, 230, 702, 448]], -1.0, -1.0]
+# SYNC	[187.8877, 187.8877, [[176, 225, 321, 427], [176, 225, 321, 427]], -1.0, -1.0]
+# SYNC	[194.42756666666668, 194.42756666666668, [[1002, 255, 1166, 484], [1002, 255, 1166, 484]], -1.0, -1.0]
+# SYNC	[194.42756666666668, 194.42756666666668, [[543, 226, 701, 446], [543, 226, 701, 446]], -1.0, -1.0]
+# SYNC	[194.42756666666668, 194.42756666666668, [[158, 246, 309, 456], [158, 246, 309, 456]], -1.0, -1.0]
+# SYNC	[197.93106666666668, 197.93106666666668, [[595, 175, 843, 521], [595, 175, 843, 521]], -1.0, -1.0]
+# SYNC	[202.86933333333334, 202.86933333333334, [[589, 176, 833, 517], [589, 176, 833, 517]], -1.0, -1.0]
+# SYNC	[207.87433333333334, 207.87433333333334, [[606, 181, 844, 513], [606, 181, 844, 513]], -1.0, -1.0]
+# SYNC	[212.54566666666668, 212.54566666666668, [[603, 186, 843, 522], [603, 186, 843, 522]], -1.0, -1.0]
+# SYNC	[217.98443333333333, 217.98443333333333, [[597, 174, 841, 515], [597, 174, 841, 515]], -1.0, -1.0]
+# SYNC	[223.223, 223.223, [[1006, 279, 1166, 503], [1006, 279, 1166, 503]], -1.0, -1.0]
+# SYNC	[223.223, 223.223, [[538, 226, 696, 446], [538, 226, 696, 446]], -1.0, -1.0]
+# SYNC	[223.223, 223.223, [[179, 240, 331, 452], [179, 240, 331, 452]], -1.0, -1.0]
+# SYNC	[227.96106666666668, 227.96106666666668, [[544, 120, 779, 448], [544, 120, 779, 448]], -1.0, -1.0]
+# SYNC	[233.96706666666668, 233.96706666666668, [[480, 130, 721, 467], [480, 130, 721, 467]], -1.0, -1.0]
+# SYNC	[240.40683333333334, 240.40683333333334, [[477, 130, 722, 472], [477, 130, 722, 472]], -1.0, -1.0]
+# SYNC	[246.0458, 246.0458, [[474, 126, 723, 474], [474, 126, 723, 474]], -1.0, -1.0]
+# SYNC	[252.8526, 252.8526, [[472, 122, 719, 467], [472, 122, 719, 467]], -1.0, -1.0]
+# SYNC	[261.1942666666667, 261.1942666666667, [[483, 116, 730, 461], [483, 116, 730, 461]], -1.0, -1.0]
+# SYNC	[267.4338333333333, 267.4338333333333, [[470, 124, 715, 466], [470, 124, 715, 466]], -1.0, -1.0]
+# SYNC	[271.2042666666667, 271.2042666666667, [[491, 122, 738, 467], [491, 122, 738, 467]], -1.0, -1.0]
+# SYNC	[275.8756, 275.8756, [[535, 133, 768, 458], [535, 133, 768, 458]], -1.0, -1.0]
+# SYNC	[280.7137666666667, 280.7137666666667, [[336, 86, 516, 337], [336, 86, 516, 337]], -1.0, -1.0]
+# SYNC	[285.3183666666667, 285.3183666666667, [[287, 91, 481, 361], [287, 91, 481, 361]], -1.0, -1.0]
+# SYNC	[292.15853333333337, 292.15853333333337, [[279, 89, 489, 382], [279, 89, 489, 382]], -1.0, -1.0]
