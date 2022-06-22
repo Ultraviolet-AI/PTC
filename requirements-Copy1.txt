@@ -84,7 +84,7 @@ mistune==0.8.4
 multiprocess==0.70.10
 murmurhash==1.0.2
 
-numpy==1.18.5
+numpy==1.22.0
 oauthlib==3.1.0
 olefile==0.46
 opt-einsum==3.3.0
