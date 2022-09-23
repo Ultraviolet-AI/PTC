@@ -102,7 +102,7 @@ preshed==3.0.2
 prometheus-client==0.8.0
 promise==2.3
 
-protobuf==3.13.0
+protobuf==3.18.3
 psutil==5.7.2
 ptyprocess==0.6.0
 
